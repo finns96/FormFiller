@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome RoboForm Tutorials - Form Filler Filli",
+  "Type": "App",
+  "Id": "1OrYN8dT7Eq1fzvuVcHBeQ",
+  "Reference": "lpllme9hFUeFE8SQvNiYMQ/1OrYN8dT7Eq1fzvuVcHBeQ",
+  "Created": "2025-02-18T08:32:49.4326091Z",
+  "Updated": "2025-02-18T08:32:49.4326091Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
