@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GueTPleTxUywJOF8QpthQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="roboform.com/filling-test-all-fields" CVScreenId="156cd001-a513-439d-8599-999bcc54c3e4" CvElementArea="925, 323, 68, 36" CvTextArea="934, 333, 51, 16" CvTextArgument="Reset" CvType="Button" DesignTimeRectangle="927, 325, 65, 33" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='reset' class='' aaname='Reset' check:text='Reset' /&gt;" Guid="10f86be3-448c-45c5-95dc-ba6eb48088c5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='RoboForm Tutorials - Form Filler: Filling Your Information into Online Forms with One Click' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bee74954c4ee3d86cc9b1906e36675ca.png" xmlns="">0auJar9v2T0SYCBHuFiUW5Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
