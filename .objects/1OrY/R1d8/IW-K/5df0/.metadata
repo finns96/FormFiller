@@ -1,0 +1,14 @@
+﻿{
+  "Name": "City",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "5df0pq4IGECyzDDqL_saYw",
+  "Reference": "lpllme9hFUeFE8SQvNiYMQ/5df0pq4IGECyzDDqL_saYw",
+  "ParentRef": "lpllme9hFUeFE8SQvNiYMQ/IW-KjgtvnUCto9L2AZGnqA",
+  "Created": "2025-02-20T02:38:57.4930525Z",
+  "Updated": "2025-02-20T02:38:57.4930525Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

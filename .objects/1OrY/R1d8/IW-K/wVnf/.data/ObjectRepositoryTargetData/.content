@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eMLWi7PmaUOXgWNXPiCs-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="roboform.com/filling-test-all-fields" CVScreenId="3ebd9950-32aa-4f2d-a394-e9af6bf60be9" CvElementArea="631, 737, 214, 35" CvType="InputBox" DesignTimeRectangle="633, 739, 210, 32" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='24emailadr' tag='INPUT' type='text' class='' aaname='' /&gt;" Guid="af97b352-06b5-4829-8f35-f2038b5b6751" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='RoboForm Tutorials - Form Filler: Filling Your Information into Online Forms with One Click' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3ebd9950-32aa-4f2d-a394-e9af6bf60be9" CvTextArea="550, 743, 53, 15" CvTextArgument="E-mail" CvType="Text" DesignTimeRectangle="375, 739, 243, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='E-mail' tag='DIV' type='' class='col-xs-6 text-right' check:innerText='E-mail' /&gt;" Guid="20371d13-be2b-48c5-8143-39e16e98ffa5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dd4c57266eaa0a0f91e0a3f85702c624.png" xmlns="">0cWIe517wokeU95hDQ8_b_A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

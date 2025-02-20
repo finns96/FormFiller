@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sex",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "HV4mr_kvEUOU_x5Jz7mNVw",
+  "Reference": "lpllme9hFUeFE8SQvNiYMQ/HV4mr_kvEUOU_x5Jz7mNVw",
+  "ParentRef": "lpllme9hFUeFE8SQvNiYMQ/IW-KjgtvnUCto9L2AZGnqA",
+  "Created": "2025-02-20T02:38:39.3412934Z",
+  "Updated": "2025-02-20T02:38:39.3412934Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

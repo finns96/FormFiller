@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QoTMcV9r6Um6KkvGebgdTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="roboform.com/filling-test-all-fields" CVScreenId="d2a88e91-f97a-4131-9719-aad2b01a7eed" CvElementArea="631, 519, 214, 36" CvType="InputBox" DesignTimeRectangle="633, 521, 210, 32" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='04lastname' tag='INPUT' type='text' class='' aaname='' /&gt;" Guid="cd89cbe0-e524-42ae-844c-2319eeacaecb" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='RoboForm Tutorials - Form Filler: Filling Your Information into Online Forms with One Click' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d2a88e91-f97a-4131-9719-aad2b01a7eed" CvTextArea="517, 526, 86, 14" CvTextArgument="Last Name" CvType="Text" DesignTimeRectangle="375, 521, 243, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Last Name' tag='DIV' type='' class='col-xs-6 text-right' check:innerText='Last Name' /&gt;" Guid="962849b8-c4b7-4abc-9abb-07327c081858" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1b4d21fb32f77c9837b7bbde16d0e7a7.png" xmlns="">0IV11QSwODUC3EasqQdGL2Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
